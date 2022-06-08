@@ -36,6 +36,7 @@ class Lista():
 listanumeros=Lista()
 listanumeros.AgregarFinal(7)
 listanumeros.AgregarFinal(96)
+listanumeros.AgregarFinal(72)
 listanumeros.AgregarFinal(10)
 listanumeros.AgregarFinal(25)
 listanumeros.AgregarFinal(18)
